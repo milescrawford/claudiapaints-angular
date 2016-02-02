@@ -1,0 +1,168 @@
+{
+   "category" : "Minnesota",
+   "paintings" : [
+      {
+         "filename" : "garden-tree",
+         "location" : "Como Park, Minnesota",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "oil",
+         "size" : "16x20",
+         "sold" : true,
+         "title" : "Como Lake Japanese Garden"
+      },
+      {
+         "filename" : "autumn-reflection",
+         "location" : "Minnesota",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 250,
+         "size" : "11x14",
+         "title" : "Autumn Reflection"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "farm-clouds",
+         "location" : "Minnesota",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 250,
+         "size" : "16x20",
+         "title" : "Minnesota Farm in Storm"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "forest-creek",
+         "location" : "Minnesota",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "oil",
+         "price" : 400,
+         "size" : "20x16",
+         "title" : "Forest Scene with Creek"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "st-paul",
+         "location" : "St. Paul, Minnesota",
+         "medium" : "canvas",
+         "notes" : "Trees and rocks inspired by \"Bright Land\" by Arthur Lismer",
+         "paint" : "oil",
+         "price" : 500,
+         "size" : "18x24",
+         "title" : "Saint Paul in the Jungle"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "willow",
+         "location" : "Central Park, Roseville, Minnesota",
+         "medium" : "canvas",
+         "notes" : "Already framed, price includes frame.",
+         "paint" : "oil",
+         "price" : 700,
+         "size" : "18x24",
+         "title" : "Yellow Weeping Willow"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "birch",
+         "location" : "Minnesota",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 400,
+         "size" : "18x24",
+         "title" : "Fall Birch Forest"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "japanese",
+         "location" : "Minnesota Arboritum",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "oil",
+         "price" : 400,
+         "size" : "16x20",
+         "title" : "Japanese Garden"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "cornfield",
+         "location" : "Stillwater, Minnesota",
+         "medium" : "canvas",
+         "notes" : "Already framed, price includes frame.",
+         "paint" : "oil",
+         "price" : 700,
+         "size" : "18x24",
+         "title" : "Cornfield at Sunset"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "geese",
+         "location" : "Sucker Lake, Roseville, Minnesota",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 250,
+         "size" : "11x14",
+         "title" : "Canadian Geese"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "hill-field",
+         "location" : "Minnesota",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 300,
+         "size" : "14x18",
+         "title" : "Hills and Fields from the Road"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "mn-storm",
+         "location" : "Minnesota",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 350,
+         "size" : "20x16",
+         "title" : "Minnesota Landscape with Storm"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "mn-farm",
+         "location" : "Minnesota",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "oil",
+         "price" : 300,
+         "size" : "11x14",
+         "title" : "Minnesota Farm"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "millacs",
+         "location" : "Lake Mille Lacs, Minnesota",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "oil",
+         "price" : 350,
+         "size" : "12x24",
+         "title" : "Autumn on Lake Mille Lacs"
+      },
+      {
+         "category" : "Minnesota",
+         "filename" : "mn-fantasy",
+         "location" : "Minnesota",
+         "medium" : "canvas",
+         "notes" : "Already framed, price includes frame.",
+         "paint" : "acrylic",
+         "price" : 500,
+         "size" : "20x16",
+         "title" : "Minnesota Landscape Fantasy"
+      }
+   ]
+}

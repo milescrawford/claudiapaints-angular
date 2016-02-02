@@ -1,0 +1,46 @@
+    <header class="header-image header-image-gallery">
+        <div class="headline headline-link">
+            <div class="container">
+                <h1 class="heading-title">Claudia Crawford</h1>
+                <h2 class="heading-sub">{{painting.title}}</h2>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+    	<div class="gallery-tile">
+	        <div class="row">
+	        	<div class="col-sm-6 painting-col">
+
+			    	<h1>{{painting.title}}</h1>
+			    	<p><em>{{painting.paint}} on a {{painting.size}} inch {{painting.medium}}</em></p>
+			    	<p ng-show="{{location}}"><strong>Location:</strong> {{painting.location}}</p>
+			    	<p ng-show="{{notes}}"><strong>Notes:</strong> {{painting.notes}}</p>
+			    	<hr>
+			    	<p ng-show="{{painting.price}}"><strong>Price:</strong> {{painting.price | currency}}</p>
+			    	<p ng-hide="{{painting.price}}"><em>This painting is not available for sale.</em></p>
+			    	<br>
+
+			    	<form ng-show="{{painting.price}}" name="_xclick"
+			    	 action="https://www.paypal.com/us/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_xclick">
+						<input type="hidden" name="business" value="larrycraw@aol.com">
+						<input type="hidden" name="currency_code" value="USD">
+						<input type="hidden" name="item_name" value="{{painting.title}}">
+						<input type="hidden" name="amount" value="{{painting.price}}">
+						<input type="image" src="/images/paypal.png" style="margin-left:-5px;" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+					</form>
+
+					<br>
+					<a href="#/contact" ng-show="{{painting.price}}" class="order-link hvr-icon-forward">Order Policy</a>
+					<hr>
+			    </div>
+			    <div class="col-sm-6">
+			    	<a href="images/max/{{painting.filename}}.jpg" data-featherlight="image">
+			    		<img ng-src="images/full/{{painting.filename}}.jpg" class="painting-detail" />
+			    	</a>
+			    	<p class="text-muted">Click on the painting for a larger view.</p>
+			    </div>
+			</div>
+		</div>
+	</div>

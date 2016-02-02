@@ -1,0 +1,39 @@
+{
+	"categories": [
+		{
+			"title": "City and Country Landscapes",
+			"url": "city-and-country",
+			"image": "bodie.jpg"
+		},
+		{
+			"title": "Europe",
+			"url": "europe",
+			"image": "beynac.jpg"
+		},
+		{
+			"title": "Flowers",
+			"url": "flowers",
+			"image": "swami.jpg"
+		},
+		{
+			"title": "Minnesota",
+			"url": "minnesota",
+			"image": "garden-tree.jpg"
+		},
+		{
+			"title": "Mountain Landscapes - Canada",
+			"url": "mountains-canada",
+			"image": "ohara.jpg"
+		},
+		{
+			"title": "Mountain Landscapes - USA",
+			"url": "mountains-usa",
+			"image": "el-cap.jpg"
+		},
+		{
+			"title": "Studies of Work by Other Artists",
+			"url": "studies",
+			"image": "great-bend.jpg"
+		}
+	]
+}

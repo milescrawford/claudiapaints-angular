@@ -1,0 +1,49 @@
+{
+   "category" : "Flowers",
+   "paintings" : [
+	   {
+	         "category" : "Flowers",
+	         "filename" : "swami",
+	         "location" : "",
+	         "medium" : "canvas",
+	         "notes" : "",
+	         "paint" : "oil",
+	         "price" : 400,
+	         "size" : "16x20",
+	         "title" : "Swami (Day Lily)"
+	      },
+	      {
+	         "category" : "Flowers",
+	         "filename" : "magnolia",
+	         "location" : "",
+	         "medium" : "canvas",
+	         "notes" : "Already framed, price includes frame.",
+	         "paint" : "oil",
+	         "price" : 450,
+	         "size" : "16x20",
+	         "title" : "Savannah Magnolia"
+	      },
+	      {
+	         "category" : "Flowers",
+	         "filename" : "lilies",
+	         "location" : "",
+	         "medium" : "canvas",
+	         "notes" : "",
+	         "paint" : "oil",
+	         "price" : 500,
+	         "size" : "18x24",
+	         "title" : "Still Life with Day Lilies"
+	      },
+	      {
+	         "category" : "Flowers",
+	         "filename" : "red-lilies",
+	         "location" : "",
+	         "medium" : "canvas",
+	         "notes" : "",
+	         "paint" : "oil",
+	         "price" : 350,
+	         "size" : "16x20",
+	         "title" : "Red Day Lilies"
+	      }
+	    ]
+	}

@@ -1,0 +1,18 @@
+.gallery-listing.ng-enter,
+.gallery-listing.ng-leave,
+.gallery-listing.ng-move {
+  -webkit-transition: 0.5s linear all;
+  -moz-transition: 0.5s linear all;
+  -o-transition: 0.5s linear all;
+  transition: 0.5s linear all;
+}
+
+.gallery-listing.ng-enter,
+.gallery-listing.ng-move {
+  opacity: 0;
+  overflow: hidden;
+}
+
+.gallery-listing.ng-enter.ng-enter-active {
+  opacity: 1;
+}

@@ -1,0 +1,49 @@
+{
+   "category" : "Mountain Landscapes - Cananda",
+   "paintings" : [
+   {
+         "category" : "Mountain Landscapes - Canada",
+         "filename" : "ohara",
+         "location" : "Yoho National Park, British Columbia",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "oil",
+         "price" : 400,
+         "size" : "16x20",
+         "title" : "Lake O'Hara"
+      },
+      {
+         "category" : "Mountain Landscapes - Canada",
+         "filename" : "valhalla-mtns",
+         "location" : "Valhalla Provincial Park, British Columbia",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "oil",
+         "size" : "16x20",
+         "sold" : true,
+         "title" : "Valhalla Mountain Range"
+      },
+      {
+         "category" : "Mountain Landscapes - Canada",
+         "filename" : "mtn-lake",
+         "location" : "Valhalla Provincial Park, British Columbia",
+         "medium" : "canvas",
+         "notes" : "",
+         "paint" : "oil",
+         "size" : "16x20",
+         "sold" : true,
+         "title" : "Valhalla Mountain Lake"
+      },
+      {
+         "category" : "Mountain Landscapes - Canada",
+         "filename" : "montmorency",
+         "location" : "Quebec City, Quebec",
+         "medium" : "canvas panel",
+         "notes" : "",
+         "paint" : "acrylic",
+         "price" : 250,
+         "size" : "10x14",
+         "title" : "Montmorency Falls"
+      }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+   "category" : "Studies of Work by Other Artists",
+   "paintings" : [
+      {
+         "filename" : "great-bend",
+         "location" : "Zion National Park, Utah",
+         "medium" : "canvas",
+         "notes" : "Study of unknown artist",
+         "paint" : "oil",
+         "price" : 500,
+         "size" : "18x24",
+         "title" : "The Great Bend"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "sandzen-fjord",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Birger Sandzen Study",
+         "paint" : "oil",
+         "price" : 500,
+         "size" : "18x24",
+         "title" : "In Stravanger Fjord"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "sandzen-four-trees",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Birger Sandzen Study",
+         "paint" : "oil",
+         "price" : 500,
+         "size" : "16x20",
+         "title" : "Landscape with Four Trees"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "sandzen-creek",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Birger Sandzen Study",
+         "paint" : "oil",
+         "price" : 500,
+         "size" : "18x24",
+         "title" : "Creek at Moonrise"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "mafutu-deer",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Ma Fu-t'u Study (China 1670)",
+         "paint" : "oil",
+         "price" : 500,
+         "size" : "18x24",
+         "title" : "Deer by Stormy Sea"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "thomson-october",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Tom Thomson Study",
+         "paint" : "oil",
+         "price" : 300,
+         "size" : "11x14",
+         "title" : "Algonquin October"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "thomson-hot-summer",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Tom Thomson Study",
+         "paint" : "oil",
+         "price" : 350,
+         "size" : "16x20",
+         "title" : "Hot Summer Moonlight"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "johnston-cowboy",
+         "location" : "",
+         "medium" : "canvas",
+         "notes" : "Franz Johnston Study",
+         "paint" : "oil",
+         "price" : 400,
+         "size" : "16x20",
+         "title" : "Cowboy Camp, Sundown, Lake Louise, Alberta"
+      },
+      {
+         "category" : "Studies of Work by Other Artists",
+         "filename" : "harris-early",
+         "location" : "",
+         "medium" : "canvas panel",
+         "notes" : "Sam Hyde Harris Study",
+         "paint" : "oil",
+         "price" : 250,
+         "size" : "14x11",
+         "title" : "Early Palm Springs"
+      }
+   ]
+}

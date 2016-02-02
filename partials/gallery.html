@@ -1,0 +1,15 @@
+    <header class="header-image header-image-gallery">
+        <div class="headline headline-link">
+            <div class="container">
+                <h1 class="heading-title">Claudia Crawford</h1>
+                <h2 class="heading-sub">Impressionistic: Bold Colors and Brushstrokes</h2>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <gallery-category ng-repeat="category in categories.categories"
+             category-info="category" class="gallery-listing"></gallery-category>
+        </div>
+    </div>

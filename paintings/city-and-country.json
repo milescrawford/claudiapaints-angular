@@ -1,0 +1,38 @@
+{
+   "category" : "City and Country Landscapes",
+   "paintings" : [
+	   {
+	         "category" : "City and Country Landscapes",
+	         "filename" : "bodie",
+	         "location" : "Bodie Ghost Town State Park, California",
+	         "medium" : "canvas",
+	         "notes" : "Already framed, price includes frame.",
+	         "paint" : "oil",
+	         "price" : 700,
+	         "size" : "18x24",
+	         "title" : "Bodie Ghost Town"
+	      },
+	      {
+	         "category" : "City and Country Landscapes",
+	         "filename" : "savannah",
+	         "location" : "Savannah, Georgia",
+	         "medium" : "canvas",
+	         "notes" : "",
+	         "paint" : "oil",
+	         "price" : 500,
+	         "size" : "18x24",
+	         "title" : "Street Scene"
+	      },
+	      {
+	         "category" : "City and Country Landscapes",
+	         "filename" : "mabry",
+	         "location" : "Blue Ridge Mountains, Virginia",
+	         "medium" : "canvas panel",
+	         "notes" : "",
+	         "paint" : "acrylic",
+	         "price" : 300,
+	         "size" : "20x16",
+	         "title" : "Mabry Mill"
+	      }
+	]
+}
